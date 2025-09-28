@@ -173,8 +173,8 @@ button {
 
 .job {
   background-color: #393e4680;
-  padding: 10px;
-
+  border-left: 5px solid green;
+  padding: 12px;
 }
 
 .job-title {
